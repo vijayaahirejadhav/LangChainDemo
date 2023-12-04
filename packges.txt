@@ -1,0 +1,5 @@
+1. Create api key for OpenAI
+
+pip install openai
+pip install langchain
+pip install streamlit
