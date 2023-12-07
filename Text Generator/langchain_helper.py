@@ -1,6 +1,5 @@
 # This is the main LangChain helper class all logic written over here
 import os
-#from secret_key import  openai_key
 
 from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
